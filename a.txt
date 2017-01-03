@@ -3,4 +3,3 @@ hello second
 hello wang
 hello commit
 add
-new line
